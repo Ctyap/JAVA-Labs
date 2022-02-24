@@ -1,0 +1,39 @@
+package labs.lab1;
+
+/**
+ * This class models a simple letter.
+ */
+
+
+
+public class Letter {
+
+	/**
+	 * Constructs a letter with a given sender and recipient.
+	 * 
+	 * @param from the sender
+	 * @param to   the recipient
+	 */
+	public Letter(String from, String to) {
+		// WRITE YOUR CODE HERE 
+	}
+
+
+	/**
+	 * Adds a line to the body of this letter.
+	 */
+	public void addLine(String line) {
+		// WRITE YOUR CODE HERE 
+	}
+
+
+	/**
+	 * Gets the body of this letter.
+	 */
+	public String getText() {
+		// WRITE YOUR CODE HERE 
+		return ""; // FIX ME
+	}
+}
+
+
